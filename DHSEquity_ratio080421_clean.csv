@@ -1,0 +1,116 @@
+Group,Ratio,Min,Max,Country,Year,Survey
+Age,2.044526598,Age 30-34,Age 15-19,Benin,2011,BJIR61FL
+Education,2.275771903,None,Secondary,Benin,2011,BJIR61FL
+Geography,3.36073139,Mono,Littoral,Benin,2011,BJIR61FL
+Parity,2.523038907,Parity 4,Parity 0,Benin,2011,BJIR61FL
+Wealth,2.01532283,Poorest,Richest,Benin,2011,BJIR61FL
+Age,1.223865571,Age 15-19,Age 30-34,Benin,2017,BJIR71FL
+Education,1.983335524,None,Higher,Benin,2017,BJIR71FL
+Geography,2.976569262,Couffo,Littoral,Benin,2017,BJIR71FL
+Parity,1.509020832,Parity 2,Parity 0,Benin,2017,BJIR71FL
+Wealth,1.462904028,Poorer,Richest,Benin,2017,BJIR71FL
+Age,1.647852304,Age 40-44,Age 15-19,Cameroon,2011,CMIR61FL
+Education,5.446601563,None,Higher,Cameroon,2011,CMIR61FL
+Geography,3.324076847,Nord,Yaounde,Cameroon,2011,CMIR61FL
+Parity,2.94450541,Parity 6+,Parity 0,Cameroon,2011,CMIR61FL
+Wealth,5.069837972,Poorest,Richest,Cameroon,2011,CMIR61FL
+Age,1.55897166,Age 40-44,Age 20-24,Cameroon,2018,CMIR71FL
+Education,3.807791396,None,Higher,Cameroon,2018,CMIR71FL
+Geography,2.829686974,Adamawa,East,Cameroon,2018,CMIR71FL
+Parity,1.895367011,Parity 6+,Parity 0,Cameroon,2018,CMIR71FL
+Wealth,2.772876436,Poorest,Richest,Cameroon,2018,CMIR71FL
+Age,1.322777868,Age 40-44,Age 20-24,Congo Democratic Republic,2013,CDIR61FL
+Education,3.40813257,None,Higher,Congo Democratic Republic,2013,CDIR61FL
+Geography,3.426096953,Equateur,Sud-Kivu,Congo Democratic Republic,2013,CDIR61FL
+Parity,1.968150824,Parity 6+,Parity 0,Congo Democratic Republic,2013,CDIR61FL
+Wealth,3.214030707,Poorest,Richest,Congo Democratic Republic,2013,CDIR61FL
+Age,1.38335305,Age 40-44,Age 20-24,Ethiopia,2011,ETIR61FL
+Education,1.674395626,None,Secondary,Ethiopia,2011,ETIR61FL
+Geography,5.091659051,Somali,Addis Ababa,Ethiopia,2011,ETIR61FL
+Parity,1.688334724,Parity 6+,Parity 2,Ethiopia,2011,ETIR61FL
+Wealth,2.366974986,Poorest,Richest,Ethiopia,2011,ETIR61FL
+Age,1.258999653,Age 45-49,Age 20-24,Ethiopia,2016,ETIR70FL
+Education,1.377392076,None,Higher,Ethiopia,2016,ETIR70FL
+Geography,7.899534181,Somali,Addis Adaba,Ethiopia,2016,ETIR70FL
+Parity,1.609938424,Parity 6+,Parity 1,Ethiopia,2016,ETIR70FL
+Wealth,1.729667627,Poorest,Richest,Ethiopia,2016,ETIR70FL
+Age,1.614882261,Age 15-19,Age 45-49,Ghana,2014,GHIR72FL
+Education,1.188177012,None,Higher,Ghana,2014,GHIR72FL
+Geography,1.679277449,Northern,Central,Ghana,2014,GHIR72FL
+Parity,1.19511326,Parity 5,Parity 3,Ghana,2014,GHIR72FL
+Wealth,1.197438096,Richer,Middle,Ghana,2014,GHIR72FL
+Age,2.267560426,Age 40-44,Age 20-24,Guinea,2012,GNIR62FL
+Education,3.852437099,None,Higher,Guinea,2012,GNIR62FL
+Geography,6.17858566,Mamou,Conakry,Guinea,2012,GNIR62FL
+Parity,4.511932242,Parity 6+,Parity 0,Guinea,2012,GNIR62FL
+Wealth,2.976550204,Poorest,Richest,Guinea,2012,GNIR62FL
+Age,1.680981266,Age 40-44,Age 15-19,Guinea,2018,GNIR71FL
+Education,2.111816642,None,Higher,Guinea,2018,GNIR71FL
+Geography,4.705277495,Labe,Conakry,Guinea,2018,GNIR71FL
+Parity,2.481184982,Parity 6+,Parity 0,Guinea,2018,GNIR71FL
+Wealth,3.125495385,Poorest,Richest,Guinea,2018,GNIR71FL
+Age,1.333967447,Age 15-19,Age 25-29,Malawi,2015,MWIR7AFL
+Education,1.03099142,Higher,Secondary,Malawi,2015,MWIR7AFL
+Geography,1.124216719,Northern Region,Central Region,Malawi,2015,MWIR7AFL
+Parity,1.943083522,Parity 0,Parity 3,Malawi,2015,MWIR7AFL
+Wealth,1.092369034,Poorest,Richest,Malawi,2015,MWIR7AFL
+Age,1.403448079,Age 45-49,Age 25-29,Mali,2018,MLIR7HFL
+Education,1.902719627,None,Higher,Mali,2018,MLIR7HFL
+Geography,6.946606857,Kidal,Bamako,Mali,2018,MLIR7HFL
+Parity,1.488083489,Parity 6+,Parity 1,Mali,2018,MLIR7HFL
+Wealth,2.093284023,Poorest,Richest,Mali,2018,MLIR7HFL
+Age,1.243748887,Age 45-49,Age 20-24,Nigeria,2013,NGIR6AFL
+Education,5.596242746,None,Higher,Nigeria,2013,NGIR6AFL
+Geography,3.545483269,North East,South West,Nigeria,2013,NGIR6AFL
+Parity,2.390371791,Parity 6+,Parity 0,Nigeria,2013,NGIR6AFL
+Wealth,8.979683712,Poorest,Richest,Nigeria,2013,NGIR6AFL
+Age,1.420115495,Age 15-19,Age 25-29,Nigeria,2018,NGIR7AFL
+Education,2.34437879,None,Higher,Nigeria,2018,NGIR7AFL
+Geography,1.458445727,North East,South West,Nigeria,2018,NGIR7AFL
+Parity,1.540563638,Parity 6+,Parity 0,Nigeria,2018,NGIR7AFL
+Wealth,2.360222846,Poorest,Richest,Nigeria,2018,NGIR7AFL
+Age,1.534841105,Age 45-49,Age 20-24,Sierra Leone,2013,SLIR61FL
+Education,2.123206027,None,Higher,Sierra Leone,2013,SLIR61FL
+Geography,1.356634807,Northern,Western,Sierra Leone,2013,SLIR61FL
+Parity,1.7561117,Parity 6+,Parity 0,Sierra Leone,2013,SLIR61FL
+Wealth,1.718410817,Poorer,Richest,Sierra Leone,2013,SLIR61FL
+Age,1.603670246,Age 45-49,Age 15-19,Sierra Leone,2019,SLIR7AFL
+Education,1.472178081,None,Secondary,Sierra Leone,2019,SLIR7AFL
+Geography,1.244212284,North Western,Eastern,Sierra Leone,2019,SLIR7AFL
+Parity,1.535348309,Parity 6+,Parity 0,Sierra Leone,2019,SLIR7AFL
+Wealth,1.286850398,Poorest,Richer,Sierra Leone,2019,SLIR7AFL
+Age,1.438930163,Age 15-19,Age 35-39,Tanzania,2015,TZIR7BFL
+Education,1.224675858,Higher,Primary,Tanzania,2015,TZIR7BFL
+Geography,4.189943416,Kusini Pemba,Mtwara,Tanzania,2015,TZIR7BFL
+Parity,1.301808777,Parity 0,Parity 4,Tanzania,2015,TZIR7BFL
+Wealth,1.492532741,Poorest,Richer,Tanzania,2015,TZIR7BFL
+Age,1.266911942,Age 35-39,Age 15-19,Togo,2013,TGIR61FL
+Education,2.490877802,None,Higher,Togo,2013,TGIR61FL
+Geography,2.228716543,Savanes,Centrale,Togo,2013,TGIR61FL
+Parity,1.738268834,Parity 2,Parity 0,Togo,2013,TGIR61FL
+Wealth,1.489134271,Poorest,Richest,Togo,2013,TGIR61FL
+Age,1.318041607,Age 15-19,Age 25-29,Uganda,2016,UGIR7BFL
+Education,1.506235092,None,Higher,Uganda,2016,UGIR7BFL
+Geography,2.459283294,Karamoja,Kigezi,Uganda,2016,UGIR7BFL
+Parity,1.203067987,Parity 6+,Parity 4,Uganda,2016,UGIR7BFL
+Wealth,1.637919358,Poorest,Richest,Uganda,2016,UGIR7BFL
+Age,1.580587008,Age 15-19,Age 25-29,Zambia,2013,ZMIR61FL
+Education,1.485995774,None,Higher,Zambia,2013,ZMIR61FL
+Geography,1.61640259,Northern,Lusaka,Zambia,2013,ZMIR61FL
+Parity,2.291688959,Parity 0,Parity 3,Zambia,2013,ZMIR61FL
+Wealth,1.560959286,Poorest,Richest,Zambia,2013,ZMIR61FL
+Age,1.527302429,Age 15-19,Age 25-29,Zambia,2018,ZMIR71FL
+Education,1.252797391,None,Higher,Zambia,2018,ZMIR71FL
+Geography,1.325678441,Western,Lusaka,Zambia,2018,ZMIR71FL
+Parity,2.038189189,Parity 0,Parity 2,Zambia,2018,ZMIR71FL
+Wealth,1.210112634,Poorest,Richer,Zambia,2018,ZMIR71FL
+Age,1.378326358,Age 15-19,Age 30-34,Zimbabwe,2010,ZWIR62FL
+Education,1.190340246,None,Higher,Zimbabwe,2010,ZWIR62FL
+Geography,1.24799892,Matabeleland South,Mashonaland East,Zimbabwe,2010,ZWIR62FL
+Parity,1.789160537,Parity 0,Parity 2,Zimbabwe,2010,ZWIR62FL
+Wealth,1.154565454,Poorer,Richest,Zimbabwe,2010,ZWIR62FL
+Age,1.231531298,Age 15-19,Age 30-34,Zimbabwe,2015,ZWIR71FL
+Education,1.341471021,None,Higher,Zimbabwe,2015,ZWIR71FL
+Geography,1.158600264,Matabeleland South,Mashonaland West,Zimbabwe,2015,ZWIR71FL
+Parity,1.681621234,Parity 0,Parity 2,Zimbabwe,2015,ZWIR71FL
+Wealth,1.127164573,Poorest,Richest,Zimbabwe,2015,ZWIR71FL
